@@ -13,17 +13,19 @@ This e-portfolio follows the recommended four-step approach:
 
 ### 1️⃣ Collect
 I gathered and organized a variety of artefacts from the training programme, including:
-- Presentation slides and videos
-- Group project documentation
-- Personal goals and timelines
-- Reflections and feedback
+- Career Counselling
+- Skills and Interests
+- Personality Assessment
+- Create a CV
+- CV submission
 
 ### 2️⃣ Select
 The following artefacts have been selected as the best evidence of my learning:
-- [CV Review Submssion](artefacts/https://github.com/wil-it2025/cv-tutorial-mengezingwenya1/blob/main/CV%20REVIEW.docx)
-- [Mock Video Interview](artefacts/https://github.com/wil-it2025/cv-tutorial-mengezingwenya1/blob/main/Mengezi%20Junior%20Ngwenya%20230023967.mp4)
-- [Teamwork Reflection Essay](reflections/teamwork.md)
-- [Skills Timeline](artefacts/skills-timeline.pdf)
+- [Career Counselling](artefacts/https://github.com/wil-it2025/cv-tutorial-mengezingwenya1/blob/main/CV%20REVIEW.docx)
+- [Skills and Interests](artefacts/https://github.com/wil-it2025/cv-tutorial-mengezingwenya1/blob/main/Mengezi%20Junior%20Ngwenya%20230023967.mp4)
+- [Personality Assessment](reflections/teamwork.md)
+- [Create a CV](artefacts/skills-timeline.pdf)
+- [CV submission](artefacts/)
 
 Each was chosen based on its relevance to key work readiness outcomes.
 
