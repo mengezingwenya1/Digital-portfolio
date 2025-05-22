@@ -16,7 +16,7 @@ A digital portfolio showcasing my work readiness training, including reflections
 
 ## 🧠 Skills and Interests
 **Evidence:** [Skills & Interests Exercise](artefacts/skills-interests.pdf)  
-**Reflection (STAR):** [Read Reflection](reflections/skills-interests.md)
+**Reflection (STAR):** [Read Reflection](reflections/Skills-and-Interests.md)
 
 ---
 
