@@ -7,7 +7,7 @@ I’m a 3rd-year ICT Applications Development student at Cape Peninsula Universi
 
 ---
 
-## 📌 Portfolio Structure
+## 📌 Portfolio 
 
 This e-portfolio follows the recommended four-step approach:
 
@@ -55,7 +55,7 @@ All artefacts are supported with explanations of their importance and learning o
 
 ## 📤 Submission
 This e-portfolio was created using Markdown and hosted on GitHub.  
-🔗 [GitHub Repository Link](https://github.com/your-username/your-repo-name)
+🔗 [GitHub Repository Link](https://github.com/mengezingwenya1/Digital-portfolio)
 
 Please refer to the assessment rubric for more detail on individual artefact evaluation.
 
