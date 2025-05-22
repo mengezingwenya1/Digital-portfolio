@@ -20,8 +20,8 @@ I gathered and organized a variety of artefacts from the training programme, inc
 
 ### 2️⃣ Select
 The following artefacts have been selected as the best evidence of my learning:
-- [Group Presentation Video](artefacts/group-presentation.mp4)
-- [Goal Setting Worksheet](artefacts/goal-setting.md)
+- [CV Review Submssion](artefacts/https://github.com/wil-it2025/cv-tutorial-mengezingwenya1/blob/main/CV%20REVIEW.docx)
+- [Mock Video Interview](artefacts/https://github.com/wil-it2025/cv-tutorial-mengezingwenya1/blob/main/Mengezi%20Junior%20Ngwenya%20230023967.mp4)
 - [Teamwork Reflection Essay](reflections/teamwork.md)
 - [Skills Timeline](artefacts/skills-timeline.pdf)
 
@@ -57,5 +57,4 @@ All artefacts are supported with explanations of their importance and learning o
 This e-portfolio was created using Markdown and hosted on GitHub.  
 🔗 [GitHub Repository Link](https://github.com/mengezingwenya1/Digital-portfolio)
 
-Please refer to the assessment rubric for more detail on individual artefact evaluation.
 
