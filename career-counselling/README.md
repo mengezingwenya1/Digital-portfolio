@@ -7,9 +7,9 @@ During the Career Readiness Training module, I completed an interactive **Career
 📄 **Career Quiz Result**  
 The assessment suggested career paths such as **Software Developer** and **Systems Analyst**, aligning closely with my interests in coding and systems design.
 
----
+
 🖼️ **Submission Confirmation Screenshot**  
-![CV Submission Screenshot](../assets/cv-submission.png)
+![Career Submission Screenshot](../assets/cv-submission.png)
 
 ---
 
