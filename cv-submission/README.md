@@ -7,6 +7,9 @@ As part of the Work Readiness Training, I created and submitted a professional C
 📄 **CV Document**  
 You can view my CV here: [Download CV (PDF)](../artefacts/cv.pdf)
 
+🖼️ **Submission Confirmation Screenshot**  
+![CV Submission Screenshot](../assets/cv-submission.png)
+
 ---
 
 ## ✍️ Reflection (STAR Technique)
@@ -27,4 +30,3 @@ The process helped me improve both the content and presentation of my CV. I now 
 
 ## 📥 Submission Platform
 My CV was officially submitted via: **Blackboard**
-
