@@ -3,7 +3,7 @@
 ## 🧾 Evidence
 
 📸 **Create a CV**  
-![CV Quiz Screenshot](../assets/cv-quiz.png)
+![CV Quiz Screenshot](../assets/cv.png)
 
 ---
 
