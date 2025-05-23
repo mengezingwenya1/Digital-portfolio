@@ -4,8 +4,9 @@
 
 As part of the Career Readiness Training, I completed a self-assessment focused on identifying my key skills, interests, and personal values. This activity helped me better understand how my capabilities align with various ICT roles.
 
-📄 **Skills & Interests ** 
-![Skills & Interests Screenshot](../assets/skills-interests.png) 
+📄 **Skills & Interests**
+
+![Skills & Interests Screenshot](../assets/skills-and-interests.png) 
 
 ---
 
