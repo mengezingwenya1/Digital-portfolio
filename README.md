@@ -40,13 +40,8 @@ Confirmation and reflection on the experience of formally submitting my CV.
 
 ---
 
-## 📎 Artefacts
-
-Supporting documents and exercises:
-- [Career Counselling Worksheet](./artefacts/career-counselling.pdf)
-- [Skills & Interests Exercise](./artefacts/skills-interests.pdf)
-- [Personality Assessment Report](./artefacts/personality-assessment.pdf)
-- [My CV (PDF)](./artefacts/cv.pdf)
+## 📎 Assets
+- [My CV (PDF)](./assets/cv.pdf)
 
 ---
 
