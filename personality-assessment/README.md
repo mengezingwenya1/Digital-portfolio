@@ -5,7 +5,7 @@
 As part of the Work Readiness Training, I completed a Personality Assessment designed to help me understand how my character traits influence my work style, communication, and team dynamics.
 
 📄 **Personality quiz**  
-[Personality Assessment Screenshot](../assets/personality-assessment.png) 
+![personality assessment](../assets/personality-assessment.png)
 
 ---
 
