@@ -8,7 +8,7 @@ As part of the Work Readiness Training, I created and submitted a professional C
 You can view my CV here: [Download CV (PDF)](../artefacts/cv.pdf)
 
 🖼️ **Submission Confirmation Screenshot**  
-![CV Submission Screenshot](../assets/cv-submission.png)
+![CV Submission Screenshot](Digital-portfolio/assets/cv-submission.png)
 
 ---
 
