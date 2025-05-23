@@ -8,6 +8,10 @@ During the Career Readiness Training module, I completed an interactive **Career
 The assessment suggested career paths such as **Software Developer** and **Systems Analyst**, aligning closely with my interests in coding and systems design.
 
 ---
+🖼️ **Submission Confirmation Screenshot**  
+![CV Submission Screenshot](../assets/cv-submission.png)
+
+---
 
 ## ✍️ Reflection (STAR Technique)
 
