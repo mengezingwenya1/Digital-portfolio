@@ -1,45 +1,58 @@
-# Digital-portfolio
-A digital portfolio showcasing my work readiness training, including reflections, selected artefacts, and evidence of learning as a 3rd-year ICT Applications Development student.
----
-# 🌟 Work Readiness Digital Portfolio
+# 🎓 Digital Portfolio – Mengezi Junior Ngwenya
 
-## 👤 About Me
-3rd-year ICT Applications Development student at CPUT. This e-portfolio showcases evidence of my learning and growth during the Work Readiness Training.
+## 📌 Overview
 
----
-
-## 🎯 Career Counselling
-**Evidence:** [Career Counselling Worksheet](artefacts/career-counselling.pdf)  
-**Reflection (STAR):** [Read Reflection](reflections/career-counselling.md)
+- **Name**: Mengezi Junior Ngwenya  
+- **Institution**: Cape Peninsula University of Technology (CPUT)  
+- **Program**: Diploma in Information and Communication Technology – Applications Development  
+- **Year**: 3rd Year  
 
 ---
 
-## 🧠 Skills and Interests
-**Evidence:** [Skills & Interests Exercise](artefacts/skills-interests.pdf)  
-**Reflection (STAR):** [Read Reflection](reflections/Skills-and-Interests.md)
+## 👋 Welcome
+
+Welcome to my digital portfolio!  
+This portfolio reflects my academic and personal development through the Work Readiness Training module.  
+Feel free to explore the sections as I present key artefacts, STAR reflections, and insights gained.
+
+Thank you for visiting!
 
 ---
 
-## 💬 Personality Assessment
-**Evidence:** [Personality Report](artefacts/personality-assessment.pdf)  
-**Reflection (STAR):** [Read Reflection](reflections/personality-assessment.md)
+## 📚 Explore My Portfolio
+
+Each section highlights my growth and learning. Click any link to explore evidence and reflections:
+
+🔹 [💼 Career Counselling](./reflections/career-counselling.md)  
+Insights into my career planning process with supporting artefacts.
+
+🔹 [🛠️ Skills and Interests](./reflections/Skills-and-Interests.md)  
+A self-assessment of my strengths, skills, and how they shape my career direction.
+
+🔹 [🧠 Personality Assessment](./reflections/personality-assessment.md)  
+A reflection on how my personality influences how I learn, work, and collaborate.
+
+🔹 [📝 Create a CV](./reflections/cv-reflection.md)  
+How I crafted my CV, supported by a guided workshop and final document.
+
+🔹 [📬 CV Submission](./reflections/cv-reflection.md)  
+Confirmation and reflection on the experience of formally submitting my CV.
 
 ---
 
-## 📄 CV Creation
-**Evidence:** [My CV (PDF)](artefacts/cv.pdf)  
-**Reflection (STAR):** [CV Creation Reflection](reflections/cv-reflection.md)
+## 📎 Artefacts
+
+Supporting documents and exercises:
+- [Career Counselling Worksheet](./artefacts/career-counselling.pdf)
+- [Skills & Interests Exercise](./artefacts/skills-interests.pdf)
+- [Personality Assessment Report](./artefacts/personality-assessment.pdf)
+- [My CV (PDF)](./artefacts/cv.pdf)
 
 ---
 
-## 📤 CV Submission
-**Evidence:** Submitted via [Blackboard / Link](#)  
-**Reflection (STAR):** [Read Reflection](reflections/cv-reflection.md)
+## 🧭 STAR Reflection Format
 
----
-
-## 📌 STAR Reflection Format (Reminder)
-Each reflection uses the **STAR technique**:
+All reflections follow the STAR method:
 - **S**ituation
 - **T**ask
 - **A**ction
@@ -47,7 +60,9 @@ Each reflection uses the **STAR technique**:
 
 ---
 
-## 🔗 Submission
-This portfolio was created in Markdown and hosted on GitHub.  
-[GitHub Repo Link](https://github.com/your-username/your-repo-name)
+## 🔗 Connect With Me
 
+- [GitHub Repository](https://github.com/your-username/your-repo-name)  
+- [LinkedIn Profile](#) *(Add your real LinkedIn link if available)*
+
+---
