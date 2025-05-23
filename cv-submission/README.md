@@ -5,7 +5,7 @@
 As part of the Work Readiness Training, I created and submitted a professional CV. This activity helped ensure I am prepared to apply for internships and job opportunities in the ICT field.
 
 📄 **CV Document**  
-You can view my CV here: [Download CV (PDF)](../artefacts/cv.pdf)
+You can view my CV here: [Download CV (PDF)](../assets/cv.pdf)
 
 🖼️ **Submission Confirmation Screenshot**  
 ![CV Submission Screenshot](../assets/cv-submission.png)
