@@ -57,7 +57,7 @@ All reflections follow the STAR method:
 
 ## 🔗 Connect With Me
 
-- [GitHub Repository](https://github.com/your-username/your-repo-name)  
-- [LinkedIn Profile](#) *(Add your real LinkedIn link if available)*
+- [GitHub]((https://github.com/mengezingwenya1))  
+- [LinkedIn Profile](www.linkedin.com/in/mengezi-junior-ngwenya-bb1b982b9)
 
 ---
