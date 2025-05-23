@@ -9,7 +9,7 @@ The assessment suggested career paths such as **Software Developer** and **Syste
 
 
 🖼️ **Submission Confirmation Screenshot**  
-![Career Submission Screenshot](../assets/cv-submission.png)
+![Career Submission Screenshot](../assets/career-development.png)
 
 ---
 
