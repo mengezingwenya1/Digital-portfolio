@@ -40,7 +40,7 @@ Confirmation and reflection on the experience of formally submitting my CV.
 🔹 [🤝 Professional Networking](./professional-networking/README.md)  
 Evidence and reflection on networking strategies and engagements.
 
-🔹 [👔 Work Etiquette](./work-etiquette/README.md)  
+🔹 [👔 Work Etiquette](./workplace-etiquette/README.md)  
 Learnings on professional conduct, workplace behavior, and communication.
 
 🔹 [🎤 Mock Interview](./mock-interview/README.md)  
