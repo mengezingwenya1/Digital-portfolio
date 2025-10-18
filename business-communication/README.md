@@ -16,7 +16,6 @@ This demonstrated my ability to apply professional communication strategies in r
 
 ![Business Communication Submission Screenshot](../assets/business-communication.png)
 
-
 ---
 
 ✍️ **Reflection (STAR Technique)**
