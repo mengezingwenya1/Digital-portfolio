@@ -15,8 +15,8 @@ Professional conduct is a cornerstone of success in any organization. I successf
 
 This assessment strengthened my understanding of how to behave ethically and professionally in diverse workplace situations.
 
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/d43ee339-f0b2-45a9-87e5-5652784d6b1b" />
-
+🖼️ **Workplace Etiquette**  
+![CV Submission Screenshot](../assets/workplace-etiquette.png)
 ---
 
 ✍️ **Reflection (STAR Technique)**
