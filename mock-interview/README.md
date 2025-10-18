@@ -11,14 +11,6 @@ The Mock Interview assignment provided a practical evaluation of my interview sk
 You can watch my mock interview recording here: [Mock Interview](https://github.com/wil-it2025/cv-tutorial-mengezingwenya1.git)
 
 
----
-
-🖼️ **Mock Interview Submission Screenshot**
-
-![Mock Interview Submission Screenshot](../assets/mock-interview.png)
-
----
-
 ✍️ **Reflection (STAR Technique)**
 
 **⭐ Situation:**  
