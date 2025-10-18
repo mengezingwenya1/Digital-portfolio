@@ -1,7 +1,3 @@
-Sure! Here's a polished version of your **Workplace Etiquette** reflection — structured, professional, and ready for a portfolio or report:
-
----
-
 # 👔 Workplace Etiquette
 
 🧾 **Evidence**
