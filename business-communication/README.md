@@ -14,7 +14,8 @@ This demonstrated my ability to apply professional communication strategies in r
 
 🖼️ **Business Communication Submission Screenshot**
 
-![Business Communication Submission Screenshot](./assets/business-communication.png)
+![Business Communication Submission Screenshot](../assets/business-communication.png)
+
 
 ---
 
