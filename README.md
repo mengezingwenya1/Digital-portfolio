@@ -18,7 +18,6 @@ Feel free to explore the sections as I present key artefacts, STAR reflections, 
 Thank you for visiting!
 
 ---
-
 ## 📚 Explore My Portfolio
 
 Each section highlights my growth and learning. Click any link to explore evidence and reflections:
@@ -36,6 +35,24 @@ A reflection on how my personality influences how I learn, work, and collaborate
 How I crafted my CV, supported by a guided workshop and final document.
 
 🔹 [📬 CV Submission](./cv-submission/README.md)  
+Confirmation and reflection on the experience of formally submitting my CV.
+
+🔹 [🤝 Professional Networking](./professional-networking/README.md)  
+Evidence and reflection on networking strategies and engagements.
+
+🔹 [👔 Work Etiquette](./work-etiquette/README.md)  
+Learnings on professional conduct, workplace behavior, and communication.
+
+🔹 [🎤 Mock Interview](./mock-interview/README.md)  
+Insights gained from participating in simulated interviews to improve preparedness.
+
+🔹 [💬 Business Communication](./business-communication/README.md)  
+Reflections on effective written and verbal business communication skills.
+
+🔹 [🧾 Interview Skills](./interview-skills/README.md)  
+Techniques and tips developed to perform confidently in real interviews.
+
+
 Confirmation and reflection on the experience of formally submitting my CV.
 
 ---
